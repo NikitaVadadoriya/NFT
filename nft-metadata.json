@@ -1,0 +1,47 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Base", 
+        "value": "Nature"
+      }, 
+      {
+        "trait_type": "color", 
+        "value": "green"
+      },
+      {
+      "trait_type":"image Shape",
+      "value":"tree"
+      },
+    
+      {
+        "trait_type": "Level", 
+        "value": 5
+      }, 
+      {
+        "trait_type": "Stamina", 
+        "value": 1.4
+      }, 
+      {
+        "trait_type": "Look", 
+        "value": "friendily"
+      }, 
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Aqua Power", 
+        "value": 40
+      }, 
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Stamina Increase", 
+        "value": 10
+      }, 
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 2
+      }
+    ],
+    "description": "Nature can refer to the general realm of living plants and animals, and in some cases to the processes associated with inanimate objects—the way that particular types of things exist and change of their own accord, such as the weather and geology of the Earth.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSQtci1Tpzc5GwvKr1ughrdU5KqHrte13FQdyHz5Azwz1",
+    "name": "Nature Photography"
+  } 
